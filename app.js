@@ -1,1 +1,1 @@
-require("./chapter01/7-input-validation");
+require("./PART-I/8-input-validation-with-joi");
